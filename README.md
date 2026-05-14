@@ -13,7 +13,3 @@ Lightweight and beginner-friendly project.
 Python,
 Tkinter.
 
-📦 Installation :
-1. Clone the Repository
-git clone https://github.com/KirubavathyE/text-to-speech-converter.git
-cd text-to-speech-converter
